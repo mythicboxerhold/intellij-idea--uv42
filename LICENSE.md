@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains IntelliJ IDEA for PC | JetBrains IntelliJ IDEA for Windows with exclusive JetBrains IntelliJ IDEA for PC | JetBrains IntelliJ IDEA for Windows Script |
 
 
 
